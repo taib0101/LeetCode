@@ -1,3 +1,10 @@
+
+// Author: Mustain Murtaza Taib
+// LeetCode Problem: Greatest Common Divisor of Strings
+// Link: https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75
+// Type: Basic
+// Accepted
+
 class Solution {
     public:
         int gcd(int n, int m) {
@@ -17,7 +24,6 @@ class Solution {
             for(int i = 0; i < gcdValue; ++i) {
                 filter.push_back(str1[i]);
             }
-            // cout << "total length : " << gcdValue << endl;
             
             return filter;
         }
@@ -25,9 +31,7 @@ class Solution {
         bool checkStrings(string str, string compareStr) {
             int gcdValue = compareStr.length();
     
-            // cout << "comapreStr = " << compareStr << endl;
             for(int i = 0, j = 0; i < str.length(); ++i, ++j) {
-                // cout << str[i] << " " << compareStr[j] << endl;
                 if(j == gcdValue)
                     j = 0;
             
