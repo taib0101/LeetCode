@@ -1,5 +1,7 @@
-// LeetCode Trapping Rain Water
-// Type Two Pointers
+// Author: Mustain Murtaza Taib
+// LeetCode Problem: Trapping Rain Water
+// Link: https://leetcode.com/problems/trapping-rain-water/
+// Type: Two Pointers
 // Accepted
 
 class Solution {
