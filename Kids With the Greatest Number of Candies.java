@@ -1,7 +1,7 @@
 // Author: Mustain Murtaza Taib
 // LeetCode Problem: Kids With the Greatest Number of Candies
 // Link: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75
-// Type: Basic Medium
+// Type: Basic 
 // Accepted
 
 class Solution {

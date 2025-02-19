@@ -1,7 +1,7 @@
 // Author: Mustain Murtaza Taib
 // LeetCode Problem: Can Place Flowers
 // Link: https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75
-// Type: Basic Medium
+// Type: Basic 
 // Accepted
 
 // My Solution
