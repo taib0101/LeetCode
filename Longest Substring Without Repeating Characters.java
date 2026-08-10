@@ -1,7 +1,11 @@
 // Author: Mustain Murtaza Taib
 // LeetCode Problem: Longest Substring Without Repeating Characters
 // Link: https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
-// Type: Sliding Window (Medium) 
+// Topics: Staff, Hash, Table, String, Sliding Window
+// Applied By Me: Sliding Window
+// Time Complexity: Best Case {O(n)}, Worst Case {O(n)}
+// Space Complexity: Best Case {O(1)}, Worst Case {O(n)}
+// Type: Medium
 // Accepted
 
 
